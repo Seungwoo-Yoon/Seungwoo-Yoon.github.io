@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/CV (2026-03-25).pdf # you can also use external links here
+cv_pdf: /assets/pdf/CV (2026-05-27).pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 toc:
   sidebar: left
