@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-27'
 papers:
   iMepLP0AAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'Extend3D: Town-Scale 3D Generation'
     year: '2026'
   iMepLP0AAAAJ:u5HHmVD_uO8C:
-    citations: 2
+    citations: 3
     title: Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models
     year: '2025'
